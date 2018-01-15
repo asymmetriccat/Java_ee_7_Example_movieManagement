@@ -1,0 +1,5 @@
+movieplex7
+==========
+
+Movie Plex 7 is the starting code of the Java EE 7 Hands On Lab provided at http://glassfish.org/hol
+# Java_ee_7_Example_movieManagement
