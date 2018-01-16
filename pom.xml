@@ -12,7 +12,8 @@
     <repositories>
         <repository>
             <id>java.net</id>
-            <url>https://maven.java.net/content/groups/promoted/</url>
+           <url>http://download.java.net/maven/2/</url>
+            <!--<url>https://maven.java.net/content/groups/promoted/</url> <-->
         </repository>
     </repositories>
     
@@ -20,7 +21,7 @@
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
-            <version>7.0-b87</version>
+            <version>7.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
